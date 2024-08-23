@@ -1,0 +1,1 @@
+print('Valor agregado en master')
